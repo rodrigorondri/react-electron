@@ -1,0 +1,16 @@
+.content {
+    flex: 1; /* O conteúdo ocupa o restante da largura */
+    padding: 20px;
+    background-color: #ecf0f1;
+  }
+  
+  .content h1 {
+    font-size: 2rem;
+    color: #34495e;
+  }
+  
+  .content p {
+    font-size: 1.2rem;
+    color: #7f8c8d;
+  }
+  
